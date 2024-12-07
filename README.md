@@ -25,6 +25,8 @@ This project is a portable environmental monitoring station designed for air qua
 - ✅ LCD 16x2 screen 🖥️.
 - ✅ Example Arduino scripts 💻 for sensor integration.
 
+Perfect for 🔬 Engineers, Makers 🛠️, and Researchers 📚 looking to explore environmental monitoring with cost-effective 🌟 and versatile tools.
+
 Download Includes:📂
 - 📜 Arduino Codes: Fully documented and ready to upload to your ARDUINO or ESP. 🚀
 - 📐 3D Models: Enclosure and modular components in STEP format, perfect for editing and 3D printing. 🖨️
