@@ -31,6 +31,8 @@ This project is a portable environmental monitoring station designed for air qua
 - ✅ LCD 16x2 screen 🖥️.
 - ✅ Example Arduino scripts 💻 for sensor integration.
 
+
+
 ![Prototype_FinalModel_WoodCutting_2](https://github.com/user-attachments/assets/d72cc02a-3a38-4128-b681-6bc79368132f)
 
 
