@@ -3,7 +3,7 @@
 📢 Important Notice 🛠️
 This wooden version is the first prototype of our portable environmental monitoring station. 🎉 While functional and great for learning, it lacks the advanced features of the latest version, such as WiFi connectivity and enhanced sensors. 🌐📡
 
-![Render2](https://github.com/user-attachments/assets/f2184956-7751-4076-9a6d-bb70cba75e36)
+![Render2](https://github.com/user-attachments/assets/24a2be50-e630-4495-b90f-2cb2eebc8f3c)
 
 
 ✨ Want to check out the complete and updated version?
@@ -17,7 +17,7 @@ Thank you for your interest! 💚 Your support helps us continue innovating and 
 
 This project is a portable environmental monitoring station designed for air quality analysis, weather tracking, and gas measurement. Built as an open-source solution 🛠️🌐, it integrates IoT capabilities, making it ideal for educational projects, environmental research, and DIY enthusiasts. 🤓🔧
 
-![Render3](https://github.com/user-attachments/assets/e86be5f4-8805-4358-8166-5c0e3ba033e5)
+![Render3](https://github.com/user-attachments/assets/ac3c1e51-cda7-44ea-8957-0cd3885ba4a3)
 
 
 ✨ Key Features ✨
