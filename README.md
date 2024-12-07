@@ -14,7 +14,7 @@ Visit the link below to explore the final iteration with all the bells and whist
 
 Thank you for your interest! 💚 Your support helps us continue innovating and contributing to the open-Source community! 🌍
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This project is a portable environmental monitoring station designed for air quality analysis, weather tracking, and gas measurement. Built as an open-source solution 🛠️🌐, it integrates IoT capabilities, making it ideal for educational projects, environmental research, and DIY enthusiasts. 🤓🔧
 
@@ -35,7 +35,7 @@ This project is a portable environmental monitoring station designed for air qua
 
 Perfect for 🔬 Engineers, Makers 🛠️, and Researchers 📚 looking to explore environmental monitoring with cost-effective 🌟 and versatile tools.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Download Includes:📂
 - 📜 Arduino Codes: Fully documented and ready to upload to your ARDUINO or ESP. 🚀
@@ -47,7 +47,8 @@ Download Includes:📂
 - 📌 [Tinkercad](https://www.tinkercad.com/things/6pniuVdfldQ-estacion-de-monitoreo-iot-rev4)
 - 📌 [Grabcad](https://grabcad.com/library/diy-portable-weather-station-1)
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ⚡️ Connections:
 - 🌡️ DHT11 Sensor: Pin D02 (Data), 5V, GND.
 - 🛢️ MQ135 Sensor: Pin A01 (Analog), 5V, GND.
@@ -59,7 +60,8 @@ Download Includes:📂
 
 ![Circuit_Diagram_ExpansionShield_ArduinoNano](https://github.com/user-attachments/assets/924fc218-f18f-4399-aa41-abec759e9505)
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 📚 Libraries and Resources: 
 - 🌡️ DHT11:
   - 📂 [Library](n9.cl/y3my5s)
@@ -92,6 +94,7 @@ Download Includes:📂
   - 🎓 [Tutorial](n9.cl/s88k9)
     
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 💡 Support the Project
 If you find this project useful or inspiring, consider supporting it in each link by:
 - ⭐ Following the project on all platforms.
