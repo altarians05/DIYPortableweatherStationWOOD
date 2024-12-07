@@ -12,6 +12,12 @@ Visit the link below to explore the final iteration with all the bells and whist
   - 📌 [Thingiverse](https://www.thingiverse.com/thing:6854103)
   - 📌 [Github](https://github.com/altarians05/DIYPortableweatherStation)
 
+🎥 See the Prototype in Action!
+
+Want to see the final prototype in action? 🌟 Head over to our YouTube video to get a full walkthrough of the Portable Environmental Monitoring Station, its features, and how it works! 
+
+📹 Watch here: [Prototype Video on YouTube](https://youtu.be/jpqpw_nJwng?si=KsxWxKCoQXddJWzs)
+
 Thank you for your interest! 💚 Your support helps us continue innovating and contributing to the open-Source community! 🌍
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
