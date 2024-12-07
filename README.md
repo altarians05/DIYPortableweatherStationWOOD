@@ -55,7 +55,7 @@ Download Includes:📂
 - ⏰ RTC DS1307: SDA -> A04, SCL -> A05, 5V, GND.
 - 💾 MicroSD Module: CS -> D10, MOSI -> D11, SCK -> D13, MISO -> D12, 5V, GND.
 
-![Circuit_Diagram_ExpansionShield_ArduinoNano](https://github.com/user-attachments/assets/be44b774-a3c5-4f62-91f6-d02afdc40dbd)
+![Circuit_Diagram_ExpansionShield_ArduinoNano](https://github.com/user-attachments/assets/924fc218-f18f-4399-aa41-abec759e9505)
 
 
 📚 Libraries and Resources: 
