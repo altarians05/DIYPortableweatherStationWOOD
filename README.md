@@ -17,7 +17,7 @@ Thank you for your interest! 💚 Your support helps us continue innovating and 
 
 This project is a portable environmental monitoring station designed for air quality analysis, weather tracking, and gas measurement. Built as an open-source solution 🛠️🌐, it integrates IoT capabilities, making it ideal for educational projects, environmental research, and DIY enthusiasts. 🤓🔧
 
-![Render3](https://github.com/user-attachments/assets/ac3c1e51-cda7-44ea-8957-0cd3885ba4a3)
+![Render3](https://github.com/user-attachments/assets/ebf0a9b1-ddd8-45e9-85fb-f642527b4037)
 
 
 ✨ Key Features ✨
@@ -31,7 +31,7 @@ This project is a portable environmental monitoring station designed for air qua
 - ✅ LCD 16x2 screen 🖥️.
 - ✅ Example Arduino scripts 💻 for sensor integration.
 
-![Prototype_FinalModel_WoodCutting_2](https://github.com/user-attachments/assets/82904f8d-7ad8-4892-90ba-7a3ae7343bda)
+![Prototype_FinalModel_WoodCutting_2](https://github.com/user-attachments/assets/d72cc02a-3a38-4128-b681-6bc79368132f)
 
 
 Perfect for 🔬 Engineers, Makers 🛠️, and Researchers 📚 looking to explore environmental monitoring with cost-effective 🌟 and versatile tools.
