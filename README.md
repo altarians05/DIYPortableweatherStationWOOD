@@ -7,8 +7,8 @@ This wooden version is the first prototype of our portable environmental monitor
 Visit the link below to explore the final iteration with all the bells and whistles:
 
 🔗 Latest Version: 
-https://www.thingiverse.com/thing:6854103
-https://github.com/altarians05/DIYPortableweatherStation
+  - 📌 [Thingiverse](https://www.thingiverse.com/thing:6854103)
+  - 📌 [Github](https://github.com/altarians05/DIYPortableweatherStation)
 
 Thank you for your interest! 💚 Your support helps us continue innovating and contributing to the open-Source community! 🌍
 
@@ -50,8 +50,8 @@ Download Includes:📂
 - ⚡ Electronics Wiring Diagram: Comprehensive connection diagrams created in Fritzing, guiding the setup of all electronic components. 🔌🖥️
 
 🔗 Download Links:
-- 📌 Tinkercad: https://www.tinkercad.com/things/6pniuVdfldQ-estacion-de-monitoreo-iot-rev4
-- 📌 Grabcad: https://grabcad.com/library/diy-portable-weather-station-1
+- 📌 [[Tinkercad](https://www.tinkercad.com/things/6pniuVdfldQ-estacion-de-monitoreo-iot-rev4)
+- 📌 [Grabcad](https://grabcad.com/library/diy-portable-weather-station-1)
 
 💡 Support the Project
 If you find this project useful or inspiring, consider supporting it in each link by:
