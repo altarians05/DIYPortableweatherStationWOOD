@@ -36,12 +36,35 @@ This project is a portable environmental monitoring station designed for air qua
 - 💾 MicroSD Module: CS -> D10, MOSI -> D11, SCK -> D13, MISO -> D12, 5V, GND.
 
 📚 Libraries and Resources: 
-- 🌡️ DHT11: Library Guide and Tutorial 📖
-- 🛢️ MQ135: Library Guide and Tutorial 🛠️
-- 🌞 LDR (Light Sensor): No library required. 🆓
-- 📟 LCD 16x2 (I2C): Library Guide and Tutorial 💡
-- ⏰ RTC DS1307: Library Guide and Tutorial ⏳
-- 💾 MicroSD Module: Library and Tutorial 🗂️
+- 🌡️ DHT11:
+  - 📂 [Library](n9.cl/y3my5s)
+  - 📖 [Guide](n9.cl/2njn)
+  - 🎓 [Tutorial](n9.cl/o05e1)
+    
+- 🛢️ MQ135:
+  - 📂 [Library](acortar.link/z7te3A)
+  - 📖 [Guide](n9.cl/p2cqr)
+  - 🎓 [Tutorial](n9.cl/zewtn)
+    
+- 🌞 LDR (Light Sensor): 
+  - 📂 Library: No library required.
+  - 📖 [Guide](n9.cl/5e9dl)
+  - 🎓 [Tutorial](n9.cl/w15fz)
+    
+- 📟 LCD 16x2 (I2C):
+  - 📂 [Library](n9.cl/4ulczq)
+  - 📖 [Guide](n9.cl/mczco)
+  - 🎓 [Tutorial](n9.cl/exs2ti)
+  
+- ⏰ RTC DS1307:
+  - 📂 [Library](n9.cl/y3air)
+  - 📖 [Guide](n9.cl/xj3kw)
+  - 🎓 [Tutorial](n9.cl/nxks8)
+  - 
+- 💾 MicroSD Module: Library and Tutorial
+  - 📂 [Library](n9.cl/z0hjuf)
+  - 📖 [Guide](n9.cl/nbez7)
+  - 🎓 [Tutorial](n9.cl/s88k9)
   
 Download Includes:📂
 - 📜 Arduino Codes: Fully documented and ready to upload to your ARDUINO or ESP. 🚀
@@ -50,7 +73,7 @@ Download Includes:📂
 - ⚡ Electronics Wiring Diagram: Comprehensive connection diagrams created in Fritzing, guiding the setup of all electronic components. 🔌🖥️
 
 🔗 Download Links:
-- 📌 [[Tinkercad](https://www.tinkercad.com/things/6pniuVdfldQ-estacion-de-monitoreo-iot-rev4)
+- 📌 [Tinkercad](https://www.tinkercad.com/things/6pniuVdfldQ-estacion-de-monitoreo-iot-rev4)
 - 📌 [Grabcad](https://grabcad.com/library/diy-portable-weather-station-1)
 
 💡 Support the Project
