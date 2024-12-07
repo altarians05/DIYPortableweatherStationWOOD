@@ -3,6 +3,9 @@
 📢 Important Notice 🛠️
 This wooden version is the first prototype of our portable environmental monitoring station. 🎉 While functional and great for learning, it lacks the advanced features of the latest version, such as WiFi connectivity and enhanced sensors. 🌐📡
 
+![Render2](https://github.com/user-attachments/assets/f2184956-7751-4076-9a6d-bb70cba75e36)
+
+
 ✨ Want to check out the complete and updated version?
 Visit the link below to explore the final iteration with all the bells and whistles:
 
@@ -14,6 +17,9 @@ Thank you for your interest! 💚 Your support helps us continue innovating and 
 
 This project is a portable environmental monitoring station designed for air quality analysis, weather tracking, and gas measurement. Built as an open-source solution 🛠️🌐, it integrates IoT capabilities, making it ideal for educational projects, environmental research, and DIY enthusiasts. 🤓🔧
 
+![Render3](https://github.com/user-attachments/assets/e86be5f4-8805-4358-8166-5c0e3ba033e5)
+
+
 ✨ Key Features ✨
 - ✅ Multi-sensor integration for temperature, humidity, and gas concentration. 🌡️💧⚡
 - ✅ Compact and lightweight portable design. 🎒📏
@@ -24,6 +30,9 @@ This project is a portable environmental monitoring station designed for air qua
 - ✅ DS3231 RTC module 🕒 records the time of each measurement.
 - ✅ LCD 16x2 screen 🖥️.
 - ✅ Example Arduino scripts 💻 for sensor integration.
+
+![Prototype_FinalModel_WoodCutting_2](https://github.com/user-attachments/assets/fe4595be-2711-4e67-b0fd-0f5993b37827)
+
 
 Perfect for 🔬 Engineers, Makers 🛠️, and Researchers 📚 looking to explore environmental monitoring with cost-effective 🌟 and versatile tools.
 
@@ -45,6 +54,9 @@ Download Includes:📂
 - 📟 LCD 16x2 (I2C): SDA -> A04, SCL -> A05, 5V, GND.
 - ⏰ RTC DS1307: SDA -> A04, SCL -> A05, 5V, GND.
 - 💾 MicroSD Module: CS -> D10, MOSI -> D11, SCK -> D13, MISO -> D12, 5V, GND.
+
+![Circuit_Diagram_ExpansionShield_ArduinoNano](https://github.com/user-attachments/assets/be44b774-a3c5-4f62-91f6-d02afdc40dbd)
+
 
 📚 Libraries and Resources: 
 - 🌡️ DHT11:
