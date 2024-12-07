@@ -25,35 +25,36 @@ This project is a portable environmental monitoring station designed for air qua
 - ✅ LCD 16x2 screen 🖥️.
 - ✅ Example Arduino scripts 💻 for sensor integration.
 
-Connections:
-- DHT11 Sensor: Pin D02 (Data), 5V, GND.
-- MQ135 Sensor: Pin A01 (Analog), 5V, GND.
-- LDR (Light Sensor): Pin A02 (Analog), 5V, GND.
-- LED: Pin D04, GND.
-- LCD 16x2 (I2C): SDA -> A04, SCL -> A05, 5V, GND.
-- RTC DS1307: SDA -> A04, SCL -> A05, 5V, GND.
-- MicroSD Module: CS -> D10, MOSI -> D11, SCK -> D13, MISO -> D12, 5V, GND.
 
-Libraries and Resources:
-- DHT11: Library Guide and Tutorial
-- MQ135: Library Guide and Tutorial
-- LDR (Light Sensor): No library required.
-- LCD 16x2 (I2C): Library Guide and Tutorial
-- RTC DS1307: Library Guide and Tutorial
-- MicroSD Module: Library and Tutorial
+⚡️ Connections:
+- 🌡️ DHT11 Sensor: Pin D02 (Data), 5V, GND.
+- 🛢️ MQ135 Sensor: Pin A01 (Analog), 5V, GND.
+- 🌞 LDR (Light Sensor): Pin A02 (Analog), 5V, GND.
+- 💡 LED: Pin D04, GND.
+- 📟 LCD 16x2 (I2C): SDA -> A04, SCL -> A05, 5V, GND.
+- ⏰ RTC DS1307: SDA -> A04, SCL -> A05, 5V, GND.
+- 💾 MicroSD Module: CS -> D10, MOSI -> D11, SCK -> D13, MISO -> D12, 5V, GND.
 
+📚 Libraries and Resources: 
+- 🌡️ DHT11: Library Guide and Tutorial 📖
+- 🛢️ MQ135: Library Guide and Tutorial 🛠️
+- 🌞 LDR (Light Sensor): No library required. 🆓
+- 📟 LCD 16x2 (I2C): Library Guide and Tutorial 💡
+- ⏰ RTC DS1307: Library Guide and Tutorial ⏳
+- 💾 MicroSD Module: Library and Tutorial 🗂️
+  
 Download Includes:📂
-📜 Arduino Codes: Fully documented and ready to upload to your ARDUINO or ESP. 🚀
-📐 3D Models: Enclosure and modular components in STEP format, perfect for editing and 3D printing. 🖨️
-📏 Technical Drawings: Fully dimensioned plans for mechanical components, making fabrication or modifications a breeze. ⚙️✍️
-⚡ Electronics Wiring Diagram: Comprehensive connection diagrams created in Fritzing, guiding the setup of all electronic components. 🔌🖥️
+- 📜 Arduino Codes: Fully documented and ready to upload to your ARDUINO or ESP. 🚀
+- 📐 3D Models: Enclosure and modular components in STEP format, perfect for editing and 3D printing. 🖨️
+- 📏 Technical Drawings: Fully dimensioned plans for mechanical components, making fabrication or modifications a breeze. ⚙️✍️
+- ⚡ Electronics Wiring Diagram: Comprehensive connection diagrams created in Fritzing, guiding the setup of all electronic components. 🔌🖥️
 
 🔗 Download Links:
-📌 Tinkercad: https://www.tinkercad.com/things/6pniuVdfldQ-estacion-de-monitoreo-iot-rev4
-📌 Grabcad: https://grabcad.com/library/diy-portable-weather-station-1
+- 📌 Tinkercad: https://www.tinkercad.com/things/6pniuVdfldQ-estacion-de-monitoreo-iot-rev4
+- 📌 Grabcad: https://grabcad.com/library/diy-portable-weather-station-1
 
 💡 Support the Project
 If you find this project useful or inspiring, consider supporting it in each link by:
-⭐ Following the project on all platforms.
-👍 Giving it a like to help boost its visibility.
-💬 Leaving a comment with your thoughts or suggestions.
+- ⭐ Following the project on all platforms.
+- 👍 Giving it a like to help boost its visibility.
+- 💬 Leaving a comment with your thoughts or suggestions.
