@@ -1,15 +1,29 @@
 # WoodWeatherStationSENA
-Development of a portable, open-source environmental monitoring station. This project enables real-time data collection and visualization using low-cost sensors. Designed for educational and research applications, it promotes learning about environmental monitoring technologies and programming. This project represents a simplified version of an environmental monitoring station. It does not include WiFi connectivity and utilizes basic sensors connected to an Arduino Nano for data collection. The station is designed to measure important environmental parameters such as temperature, humidity, air quality, and light levels, making it an ideal solution for basic environmental monitoring applications.
 
-Main Features:
-- Variables Measured: Temperature, Humidity, Air Quality, Light Levels.
-- DHT11 Sensor: Measures temperature and humidity in a single module.
-- MQ135 Sensor: Detects air quality and hazardous gases.
-- LDR (Light Dependent Resistor): Measures light intensity in the environment.
-- LED Indicator: Provides visual alerts based on sensor readings.
-- Data Storage: MicroSD card used as the primary data storage device.
-- Real-time Clock: DS1302 RTC module tracks the time of each measurement.
-- Data Display: 16x2 LCD screen with I2C communication for displaying environmental data.
+📢 Important Notice 🛠️
+This wooden version is the first prototype of our portable environmental monitoring station. 🎉 While functional and great for learning, it lacks the advanced features of the latest version, such as WiFi connectivity and enhanced sensors. 🌐📡
+
+✨ Want to check out the complete and updated version?
+Visit the link below to explore the final iteration with all the bells and whistles:
+
+🔗 Latest Version: 
+https://www.thingiverse.com/thing:6854103
+https://github.com/altarians05/DIYPortableweatherStation
+
+Thank you for your interest! 💚 Your support helps us continue innovating and contributing to the open-Source community! 🌍
+
+This project is a portable environmental monitoring station designed for air quality analysis, weather tracking, and gas measurement. Built as an open-source solution 🛠️🌐, it integrates IoT capabilities, making it ideal for educational projects, environmental research, and DIY enthusiasts. 🤓🔧
+
+✨ Key Features ✨
+✅ Multi-sensor integration for temperature, humidity, and gas concentration. 🌡️💧⚡
+✅ Compact and lightweight portable design. 🎒📏
+✅ Compatibility with Arduino 🤖 or NodeMCU for easy customization.
+✅ Open-source documentation 📂 and designs 🖌️ to encourage collaboration 🤝.
+✅ Perfect for outdoor monitoring 🏞️ and data logging 📊.
+✅ MicroSD card 📀 used for recorded data storage.
+✅ DS3231 RTC module 🕒 records the time of each measurement.
+✅ LCD 16x2 screen 🖥️.
+✅ Example Arduino scripts 💻 for sensor integration.
 
 Connections:
 - DHT11 Sensor: Pin D02 (Data), 5V, GND.
@@ -28,6 +42,18 @@ Libraries and Resources:
 - RTC DS1307: Library Guide and Tutorial
 - MicroSD Module: Library and Tutorial
 
-Project Purpose: This simplified version of the environmental monitoring station is perfect for learning and experimentation in environmental science, electronics, and programming. It provides a hands-on approach to understanding sensor integration, data logging, and time tracking, making it an excellent project for educational purposes and DIY enthusiasts.
+Download Includes:📂
+📜 Arduino Codes: Fully documented and ready to upload to your ARDUINO or ESP. 🚀
+📐 3D Models: Enclosure and modular components in STEP format, perfect for editing and 3D printing. 🖨️
+📏 Technical Drawings: Fully dimensioned plans for mechanical components, making fabrication or modifications a breeze. ⚙️✍️
+⚡ Electronics Wiring Diagram: Comprehensive connection diagrams created in Fritzing, guiding the setup of all electronic components. 🔌🖥️
 
-While lacking WiFi connectivity in this version, it can easily be expanded with more advanced modules for remote data collection in future versions.
+🔗 Download Links:
+📌 Tinkercad: https://www.tinkercad.com/things/6pniuVdfldQ-estacion-de-monitoreo-iot-rev4
+📌 Grabcad: https://grabcad.com/library/diy-portable-weather-station-1
+
+💡 Support the Project
+If you find this project useful or inspiring, consider supporting it in each link by:
+⭐ Following the project on all platforms.
+👍 Giving it a like to help boost its visibility.
+💬 Leaving a comment with your thoughts or suggestions.
