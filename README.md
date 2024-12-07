@@ -15,15 +15,15 @@ Thank you for your interest! 💚 Your support helps us continue innovating and 
 This project is a portable environmental monitoring station designed for air quality analysis, weather tracking, and gas measurement. Built as an open-source solution 🛠️🌐, it integrates IoT capabilities, making it ideal for educational projects, environmental research, and DIY enthusiasts. 🤓🔧
 
 ✨ Key Features ✨
-✅ Multi-sensor integration for temperature, humidity, and gas concentration. 🌡️💧⚡
-✅ Compact and lightweight portable design. 🎒📏
-✅ Compatibility with Arduino 🤖 or NodeMCU for easy customization.
-✅ Open-source documentation 📂 and designs 🖌️ to encourage collaboration 🤝.
-✅ Perfect for outdoor monitoring 🏞️ and data logging 📊.
-✅ MicroSD card 📀 used for recorded data storage.
-✅ DS3231 RTC module 🕒 records the time of each measurement.
-✅ LCD 16x2 screen 🖥️.
-✅ Example Arduino scripts 💻 for sensor integration.
+- ✅ Multi-sensor integration for temperature, humidity, and gas concentration. 🌡️💧⚡
+- ✅ Compact and lightweight portable design. 🎒📏
+- ✅ Compatibility with Arduino 🤖 or NodeMCU for easy customization.
+- ✅ Open-source documentation 📂 and designs 🖌️ to encourage collaboration 🤝.
+- ✅ Perfect for outdoor monitoring 🏞️ and data logging 📊.
+- ✅ MicroSD card 📀 used for recorded data storage.
+- ✅ DS3231 RTC module 🕒 records the time of each measurement.
+- ✅ LCD 16x2 screen 🖥️.
+- ✅ Example Arduino scripts 💻 for sensor integration.
 
 Connections:
 - DHT11 Sensor: Pin D02 (Data), 5V, GND.
