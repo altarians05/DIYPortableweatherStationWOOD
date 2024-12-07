@@ -25,6 +25,15 @@ This project is a portable environmental monitoring station designed for air qua
 - ✅ LCD 16x2 screen 🖥️.
 - ✅ Example Arduino scripts 💻 for sensor integration.
 
+Download Includes:📂
+- 📜 Arduino Codes: Fully documented and ready to upload to your ARDUINO or ESP. 🚀
+- 📐 3D Models: Enclosure and modular components in STEP format, perfect for editing and 3D printing. 🖨️
+- 📏 Technical Drawings: Fully dimensioned plans for mechanical components, making fabrication or modifications a breeze. ⚙️✍️
+- ⚡ Electronics Wiring Diagram: Comprehensive connection diagrams created in Fritzing, guiding the setup of all electronic components. 🔌🖥️
+
+🔗 Download Links:
+- 📌 [Tinkercad](https://www.tinkercad.com/things/6pniuVdfldQ-estacion-de-monitoreo-iot-rev4)
+- 📌 [Grabcad](https://grabcad.com/library/diy-portable-weather-station-1)
 
 ⚡️ Connections:
 - 🌡️ DHT11 Sensor: Pin D02 (Data), 5V, GND.
@@ -65,16 +74,6 @@ This project is a portable environmental monitoring station designed for air qua
   - 📂 [Library](n9.cl/z0hjuf)
   - 📖 [Guide](n9.cl/nbez7)
   - 🎓 [Tutorial](n9.cl/s88k9)
-  
-Download Includes:📂
-- 📜 Arduino Codes: Fully documented and ready to upload to your ARDUINO or ESP. 🚀
-- 📐 3D Models: Enclosure and modular components in STEP format, perfect for editing and 3D printing. 🖨️
-- 📏 Technical Drawings: Fully dimensioned plans for mechanical components, making fabrication or modifications a breeze. ⚙️✍️
-- ⚡ Electronics Wiring Diagram: Comprehensive connection diagrams created in Fritzing, guiding the setup of all electronic components. 🔌🖥️
-
-🔗 Download Links:
-- 📌 [Tinkercad](https://www.tinkercad.com/things/6pniuVdfldQ-estacion-de-monitoreo-iot-rev4)
-- 📌 [Grabcad](https://grabcad.com/library/diy-portable-weather-station-1)
 
 💡 Support the Project
 If you find this project useful or inspiring, consider supporting it in each link by:
