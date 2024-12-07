@@ -5,7 +5,6 @@ This wooden version is the first prototype of our portable environmental monitor
 
 ![Render2](https://github.com/user-attachments/assets/24a2be50-e630-4495-b90f-2cb2eebc8f3c)
 
-
 ✨ Want to check out the complete and updated version?
 Visit the link below to explore the final iteration with all the bells and whistles:
 
@@ -19,7 +18,6 @@ This project is a portable environmental monitoring station designed for air qua
 
 ![Render3](https://github.com/user-attachments/assets/ebf0a9b1-ddd8-45e9-85fb-f642527b4037)
 
-
 ✨ Key Features ✨
 - ✅ Multi-sensor integration for temperature, humidity, and gas concentration. 🌡️💧⚡
 - ✅ Compact and lightweight portable design. 🎒📏
@@ -31,10 +29,7 @@ This project is a portable environmental monitoring station designed for air qua
 - ✅ LCD 16x2 screen 🖥️.
 - ✅ Example Arduino scripts 💻 for sensor integration.
 
-
-
 ![Prototype_FinalModel_WoodCutting_2](https://github.com/user-attachments/assets/d72cc02a-3a38-4128-b681-6bc79368132f)
-
 
 Perfect for 🔬 Engineers, Makers 🛠️, and Researchers 📚 looking to explore environmental monitoring with cost-effective 🌟 and versatile tools.
 
